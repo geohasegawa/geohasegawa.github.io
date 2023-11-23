@@ -1,11 +1,11 @@
-# geohasegawa's portofolio
+## geohasegawa's portofolio
 
-## Profile
+### Profile
 
-### Skills
+#### Skills
 
-### Educations
+#### Educations
 
-### Certificates
+#### Certificates
 
-## Works
+### Works
