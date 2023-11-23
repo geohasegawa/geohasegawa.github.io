@@ -4,8 +4,8 @@ Hello, I am geohasegawa. I work for a better future.
 
 ### Skills
 #### Editors
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge)
+- ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge)
 
 #### OS
 - ![macOS](http://img.shields.io/badge/mac%20OS-000000?style=for-the-badge)
